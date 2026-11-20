@@ -224,3 +224,5 @@ body{font-size:18px}
  body.hero-in-view .social-floats{opacity:0;visibility:hidden;pointer-events:none}
 }
 @media(max-width:360px){.topbar{font-size:11px}.topbar .wrap{width:94%}.topbar a span{margin-left:4px}}
+
+.map-link{display:inline-flex;align-items:center;gap:8px}.map-link svg{flex-shrink:0}
