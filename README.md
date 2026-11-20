@@ -1,0 +1,3 @@
+All rights reserved.
+
+This website and its source code may not be copied, modified, distributed, or used without explicit written permission from the owner.
